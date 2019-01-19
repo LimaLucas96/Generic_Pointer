@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wall -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/run_tests.dir/test/main-2.cpp.o  -o run_tests -lgtest -lgtest_main -lpthread libRanges.a 

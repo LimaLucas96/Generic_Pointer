@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libRanges.a  CMakeFiles/Ranges.dir/src/min.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libRanges.a

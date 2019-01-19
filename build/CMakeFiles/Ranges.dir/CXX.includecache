@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macosx/Desktop/LP1/Ponteiro_Generico/include/graal.h
+cstring
+-
+
+/Users/macosx/Desktop/LP1/Ponteiro_Generico/src/min.cpp
+../include/graal.h
+/Users/macosx/Desktop/LP1/Ponteiro_Generico/include/graal.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macosx/Desktop/LP1/Ponteiro_Generico/include/graal.h
+cstring
+-
+
+/Users/macosx/Desktop/LP1/Ponteiro_Generico/test/main-2.cpp
+iterator
+-
+functional
+-
+algorithm
+-
+gtest/gtest.h
+/Users/macosx/Desktop/LP1/Ponteiro_Generico/test/gtest/gtest.h
+../include/graal.h
+/Users/macosx/Desktop/LP1/Ponteiro_Generico/include/graal.h
+
